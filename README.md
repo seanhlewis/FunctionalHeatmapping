@@ -31,7 +31,7 @@ Run the code with these modified variables to visualize:
 ![image](https://github.com/seanhlewis/FunctionalHeatmapping/assets/96705270/e1719147-3f66-42e8-8f4c-807cdaa4b86f)
 
 
-Functional Heatmapping is optimized for you to create your own functions as well. Refer to code for setting up and testing your own functions.
+Functional Heatmapping is optimized for you to create your own functions or shapes as well. Refer to code for setting up and testing your own functions or boundaries.
 
 ### Contributing
 
