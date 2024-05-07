@@ -6,7 +6,7 @@ from matplotlib.patches import Circle
 
 
 # ---------------------------------- IMPORTANT ---------------------------------- #
-# Parameters are how you may change the shape, accuracy, funciton, and grid size of the heatmap
+# Parameters are how you may change the shape, accuracy, function, and grid size of the heatmap
 # Shape: Shape is the type of shape you want to calculate the average exit time for. Options are 'circle', 'square', 'triangle', or 'rectangle'
 # Accuracy: Accuracy is the number of directions checked for the average exit time calculation. Higher accuracy means more directions are checked
 # Function: Function is the type of growth function used for the trajectory. Options are 'straight_line', 'exponential', 'logarithmic', 'inverse', or 'spiral'
