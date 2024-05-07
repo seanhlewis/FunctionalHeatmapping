@@ -16,8 +16,7 @@ _Note: As Functional Heatmapping is being actively developed, it may occasionall
 
 # Getting Started with Functional Heatmapping
 
-The system offers a few starter variables for you to modify and use:
-Parameters are how you may change the shape, accuracy, function, and grid size of the heatmap.
+The system offers a few starter variables for you to modify and use, allowing you to change the shape, accuracy, function, and grid size of the heatmap.
 * **_Shape:_** Shape is the type of shape you want to calculate the average exit time for. Options are 'circle', 'square', 'triangle', or 'rectangle'
 * **_Accuracy:_** Accuracy is the number of directions checked for the average exit time calculation. Higher accuracy means more directions are checked
 * **_Function:_** Function is the type of growth function used for the trajectory. Options are 'straight_line', 'exponential', 'logarithmic', 'inverse', or 'spiral'
