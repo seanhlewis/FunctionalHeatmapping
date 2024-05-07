@@ -33,6 +33,13 @@ Run the code with these modified variables to visualize:
 
 Functional Heatmapping is optimized for you to create your own functions or shapes as well. Refer to code for setting up and testing your own functions or boundaries.
 
+### Behind the Scenes
+
+In the background, Functional Heatmapping is simulating thousands of copies of the same function from equally spaced starting points on grid of size *grid_size* towards 2^(*accuracy*) directions from the origin point. It tracks each of these functions until a condition is met, in this case, hitting the perimeter of the boundary. It runs this simulation for each direction individually, then averages the times retrieved and assigns it to its unique grid space. Once the entire grid is populated with these average times, we convert the matrix to a heatmap which can be visualized easily, creating a *functional heatmap*.
+
+![simplifiedheatmap2](https://github.com/seanhlewis/FunctionalHeatmapping/assets/96705270/5c416c7e-cfd5-4c55-a6cb-b6be966301d5)
+
+
 ### Contributing
 
 If you would like to contribute, please fork the repository, create a new branch for your feature or bug fix, and submit a pull request. Feel free to open an issue to discuss any new ideas or questions beforehand.
