@@ -6,7 +6,7 @@
 
 </div>
 
-**Functional Heatmapping** is a visualization system for conditioned time-dependent functions. It represents the functions in real-time heatmaps and calculates their movement. It can identify when functions cross the perimeter boundary or satisfy other specified conditions, providing clear visual insight into their paths. Using this tool, Bellman’s Lost in a Forest problem to be visually verified in seconds by representing time-dependent function data in real-time heatmaps. This ensures rapid, accurate verification of solutions for any conditioned time-dependent function.
+**Functional Heatmapping** is a visualization system for conditioned time-dependent functions. It represents the functions in real-time heatmaps and calculates their movement. It can identify when functions cross the perimeter boundary or satisfy other specified conditions, providing clear visual insight into their paths. Using this tool, Bellman’s Lost in a Forest problem can be visually verified in seconds by representing time-dependent function data in real-time heatmaps. This ensures rapid, accurate verification of solutions for any conditioned time-dependent function.
 
 _Note: As Functional Heatmapping is being actively developed, it may occasionally generate incorrect information. I am committed to remedying these issues, and encourage you to [reach out](mailto:seanhlewis@utexas.edu?subject=Functional%20Heatmapping%20Bug%20Report&amp;body=Please%20describe%20the%20bug%20here.) if you find any instances of this._
 
